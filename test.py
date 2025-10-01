@@ -75,7 +75,7 @@ class MandelbrotConfig:
     colormap: str = "log"
     device: str = "auto"
     output_dir: str = "/data/mattmcl"
-    video_out: str | None = "mandelbrot_zoom.mp4"  # relative to output_dir if not absolute
+    video_out: str | None = "fractal.mp4"  # relative to output_dir if not absolute
     gif_out: str | None = None  # relative to output_dir if not absolute
     fps: int = 30
     dry_run: bool = False
