@@ -3,6 +3,5 @@
 
 # Include only essential files for Docker build
 !test.py
-!gpu-audio.py
 !pyproject.toml
 !uv.lock
