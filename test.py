@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# MIT License
+# Copyright (c) 2025 Matt McLaughlin
+# See LICENSE file for full license text.
+
 """Generate a deep Mandelbrot zoom as HD video (and optionally GIF).
 
 Features:

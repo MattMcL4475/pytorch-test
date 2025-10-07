@@ -156,7 +156,7 @@ Potential enhancements:
 | CUDA OOM | Resolution * iterations too large | Reduce resolution or frames, increase final_scale. |
 
 ## License
-MIT (add a LICENSE file if distributing formally).
+MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Inspired by classic Mandelbrot zoom renderers; implemented with concise tensor math using PyTorch.
