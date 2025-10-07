@@ -157,9 +157,3 @@ Potential enhancements:
 
 ## License
 MIT License - see [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Inspired by classic Mandelbrot zoom renderers; implemented with concise tensor math using PyTorch.
-
----
-Feel free to open issues or request enhancements (palettes, smoothing, multi-precision, streaming stats).
